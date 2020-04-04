@@ -1,0 +1,3 @@
+rootProject.name='OtterKit_Android'
+include ':app'
+include ':OtterKit'
